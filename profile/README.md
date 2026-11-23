@@ -2,8 +2,6 @@
 
 **Beyond Conventional Computing**
 
----
-
 ## About
 
 Calynd is an independent software development organization focused on creating software, operating systems, development tools and experimental technologies.

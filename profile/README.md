@@ -29,6 +29,10 @@ Our projects cover different areas of software development, from operating syste
 
 - [GitHub](https://github.com/Calynd)
 
+## Mascot
+
+Meet **Lumi**, the official mascot of Calynd. She represents curiosity, light, and exploration beyond conventional computing.
+
 ---
 
 *Made with ❤️ for the community*

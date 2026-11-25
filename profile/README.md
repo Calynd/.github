@@ -31,6 +31,8 @@ Our projects cover different areas of software development, from operating syste
 
 ## Mascot
 
+<img src="../Lumi.svg" width="300" alt="Lumi">
+
 Meet **Lumi**, the official mascot of Calynd. She represents curiosity, light, and exploration beyond conventional computing.
 
 ---

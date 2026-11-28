@@ -33,7 +33,7 @@ Our projects cover different areas of software development, from operating syste
 
 <img src="https://raw.githubusercontent.com/Calynd/Lumi/main/Arts/Official/SVG/Lumi.svg" width="300" alt="Lumi">
 
-Meet **Lumi**, the official mascot of Calynd.
+Meet **Lumi**, the official mascot of Calynd. She's adorable, isn't she?
 
 [Repository](https://github.com/Calynd/Lumi)
 
